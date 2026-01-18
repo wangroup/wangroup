@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Thanks for visiting my GitHub repository.
+
 <!--
 **wangroup/wangroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
